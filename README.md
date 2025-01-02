@@ -2,13 +2,6 @@
 
 Welcome to the **Pl/SQL Queries** repository! This repository contains a collection of various **Pl/SQL** queries and scripts that cover a wide range of database operations and algorithms. These queries are designed to demonstrate the versatility of SQL in handling different types of data operations and problem-solving scenarios.
 
-## Table of Contents
-
-- [Queries Included](#queries-included)
-- [Running the Queries](#running-the-queries)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Queries Included
 
 This repository includes the following Pl/SQL queries and scripts:
